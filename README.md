@@ -12,7 +12,7 @@ The generator supports group based ACL's and socket.io communication with the se
 
 ## Install
 ```bash
-$ npm install generator-material-app
+$ npm install generator-material-app -g
 ```
 
 ## Quick Start
